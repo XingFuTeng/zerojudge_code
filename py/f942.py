@@ -9,6 +9,7 @@ try:
                     print(i)
                     print(a)
                     break
+                    
 except EOFError:
     pass
 
